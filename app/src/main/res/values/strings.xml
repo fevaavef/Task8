@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dmitrii-korolev-shop</string>
+    <string name="checkout_header">Оформление заказа</string>
+    <string name="totalPrice">Цена без скидки</string>
+    <string name="totalPriceValue">TextView</string>
+    <string name="discount">Скидка</string>
+    <string name="resultPrice">Цена со скидкой</string>
+    <string name="discountValue">0</string>
+    <string name="resultPriceValue">1</string>
+</resources>

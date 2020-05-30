@@ -1,0 +1,2 @@
+rootProject.name='dmitrii-korolev-shop'
+include ':app'
